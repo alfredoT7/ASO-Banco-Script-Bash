@@ -1,0 +1,7 @@
+1|Alfredo|202200353@est.umss.edu
+2|Camila Torrico|1@mgail.com
+3|Oscar|1@mgail.com
+4|Jhony Bravo|1@mgail.com
+5|Laura|1@mgail.com
+6|Jhon Cuero|1@mgail.com
+7|Ernesto Torrico|123456alfredotorri@gmail.com|notebok456

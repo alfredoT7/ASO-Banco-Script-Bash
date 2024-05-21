@@ -1,0 +1,8 @@
+Servicio de Luz|31
+Servicio de Agua|80
+Servicio de Internet|45
+Servicio de Teléfono|50
+Seguro Médico|100
+Servicio de Gas|60
+Servicio de Televisión|70
+Servicio de Limpieza|40
